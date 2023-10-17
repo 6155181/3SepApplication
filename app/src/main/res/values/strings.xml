@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">3SepApplication</string>
+    <string name="btn_choose">CHOOSE</string>
+    <string name="btn_upload">UPLOAD</string>
+</resources>
